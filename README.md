@@ -40,7 +40,3 @@ Além disto é bom ter um editor para trabalhar com o código como, intelliJ IDE
 <a href="">
 Iris Caetano</a>
  <br />
-
-
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
-
