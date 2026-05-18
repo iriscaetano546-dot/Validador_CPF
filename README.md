@@ -11,7 +11,8 @@
 </h1>
 
 
-⚙️ Funcionalidades
+⚙️ Funcionalidades:
+
 O usuário digita o CPF em qualquer formato — com pontos e traço (000.000.000-00) ou apenas os 11 números.
 Remove todos os caracteres não numéricos. Verifica se o resultado tem exatamente 11 dígitos e rejeita sequências repetidas como 111.111.111-11.
 Aplica o algoritmo: multiplica cada dígito por um peso decrescente, soma os resultados, calcula o resto da divisão por 11 e deriva os dois dígitos verificadores.
